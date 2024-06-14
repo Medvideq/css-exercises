@@ -1,0 +1,20 @@
+.odd-numbered {
+    background-color:rgb(248, 114, 147);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#unique {
+    color: rgb(98, 59, 238);
+    font-size: 36px;
+}
+    
+
+.odd-numbered.cooler {
+    font-size: 24px;
+}
+
+#unique2 {
+    background-color: rgb(131, 233, 131);
+    font-size: 24px;
+    font-weight: bold;
+}
